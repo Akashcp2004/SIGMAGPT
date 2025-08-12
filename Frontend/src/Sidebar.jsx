@@ -132,9 +132,7 @@ function Sidebar() {
       </div>
 
       <div className="sign">
-        <p>
-          By ApnaCollege &hearts;
-        </p>
+        
       </div>
     </section>
   );
